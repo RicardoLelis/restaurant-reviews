@@ -4,7 +4,7 @@ function Login() {
     return (
         <div>
             <div className="App">
-                Hello world.
+                Login.
             </div>
 
         </div>
